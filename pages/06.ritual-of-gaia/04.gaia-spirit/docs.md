@@ -81,14 +81,8 @@ Only one mob can be bewitched at the time; the current one would have to be kill
 ### Cloak of Virtue
 When worn in the Body slot, whenever the player takes damage, the Cloak will nullify it and go on a 10-second cooldown. The wearer is not protected from magic damage from sources like the Potion of Harming.
 
-### Cloak of Sin
-When worn in the Baubles Body slot, the Cloak will damage all nearby monsters for the same amount the wearer was damaged by and go on a 10-second cooldown. The Cloak does not trigger on unblockable damage like magic or fall damage
-
 ### Cloak of Balance
 When worn in the Baubles Body slot, the cloak will halve the damage taken and deal the same amount of damage to the attacker when the wearer sustains damage, then go on a 10-second cooldown. The cloak does not trigger on magic damage like Potions of Harming.
-
-### Crimson Pendant
-When worn, the player will become immune to fire or lava damage and will also be unable to be set on fire.
 
 ### Flügel Tiara
 When worn, the player can fly as if they were in Creative mode by consuming small amounts of Mana from a carried Mana Tablet. When in flight, white sparks trail behind the player.
